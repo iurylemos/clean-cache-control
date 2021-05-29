@@ -1,1 +1,1 @@
-export * from './cache-store';
+export * from '@/data/protocols/cache/cache-store';
