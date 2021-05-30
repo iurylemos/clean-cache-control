@@ -8,7 +8,7 @@ export interface SavePurchases {
 //     value: number
 // }
 
-namespace SavePurchases {
+export namespace SavePurchases {
     export type Params = {
         id: string
         date: Date
