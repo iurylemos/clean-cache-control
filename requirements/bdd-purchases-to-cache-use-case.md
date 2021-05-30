@@ -12,4 +12,4 @@
 1. ✅ Sistema retorna erro
 
 > ## Exceção - Erro ao gravar dados do Cache
-1. Sistema retorna erro
+1. ✅ Sistema retorna erro
