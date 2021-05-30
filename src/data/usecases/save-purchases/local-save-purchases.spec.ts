@@ -1,6 +1,6 @@
 import { CacheStore } from '@/data/protocols/cache';
 import { LocalSavePurchases } from '@/data/usecases';
-import { SavePurchases } from '@/domain';
+import { SavePurchases } from '@/domain/usecases';
 
 //sut = system under test
 
